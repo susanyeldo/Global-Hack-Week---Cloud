@@ -17,3 +17,6 @@ Cloud services used: cloudFlair, Google Cloud, Firebase
 6. Firebase Apps Part 1
    - Created a login page using Firebase Authentication
 7. Intro to the Cloud
+
+
+All credits go to the amazing team @ MLH
