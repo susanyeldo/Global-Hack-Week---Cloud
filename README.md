@@ -15,3 +15,5 @@ Cloud services used: cloudFlair, Google Cloud, Firebase
 5. Building a Mobile App with Google Cloud Tools Part 1
    - The app being built was an IOS one and Xcode did not run on my Windows :')
 6. Firebase Apps Part 1
+   - Created a login page using Firebase Authentication
+7. Intro to the Cloud
