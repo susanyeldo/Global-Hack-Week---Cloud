@@ -6,25 +6,25 @@ Cloud services used: cloudFlair, Google Cloud, Firebase
 
 ## Day 1
 
-- [] [Cloudflare Workshop] Getting started with Workers AI
+- [ ] [Cloudflare Workshop] Getting started with Workers AI
    - Rundown on products of CloudFlair
    - Basic AI Assistant App
--[] Max Out Your Hack With Google Cloud: Part 1
+- [ ] Max Out Your Hack With Google Cloud: Part 1
    - Created basic plan for the website in terms of purpose, tech to use, etc.
--[] Building a Mobile App with Google Cloud Tools Part 1
+- [ ] Building a Mobile App with Google Cloud Tools Part 1
    - The app being built was an IOS one and Xcode did not run on my Windows :')
--[] Firebase Apps Part 1
+- [ ] Firebase Apps Part 1
    - Created a login page using Firebase Authentication
--[] Intro to the Cloud
+- [ ] Intro to the Cloud
 
 ## Day 2
 
-1. Supercharge you Team Deployment with Github Actions
-2. Using SendGrid to send and recieve emails with Python and Flask
-3. Docker101: Basics and Installation on your Cloud server
-4. Docker102: Basics and Installation on your Cloud server
-5. Building a Mobile App with Google Cloud Tools Part 2
-6. Max Out Your Hack With Google Cloud: Part 2
+- [ ] Supercharge you Team Deployment with Github Actions
+- [ ] Using SendGrid to send and recieve emails with Python and Flask
+- [ ] Docker101: Basics and Installation on your Cloud server
+- [ ] Docker102: Basics and Installation on your Cloud server
+- [ ] Building a Mobile App with Google Cloud Tools Part 2
+- [ ] Max Out Your Hack With Google Cloud: Part 2
 
 ## Day 3
 
