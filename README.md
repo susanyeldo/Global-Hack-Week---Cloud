@@ -6,7 +6,7 @@ Cloud services used: cloudFlair, Google Cloud, Firebase
 
 ## Day 1
 
--[] [Cloudflare Workshop] Getting started with Workers AI
+- [] [Cloudflare Workshop] Getting started with Workers AI
    - Rundown on products of CloudFlair
    - Basic AI Assistant App
 -[] Max Out Your Hack With Google Cloud: Part 1
